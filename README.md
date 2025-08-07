@@ -30,5 +30,6 @@ Figure 2: Wide aperture
 
 <img width="459" height="254" alt="image" src="https://github.com/user-attachments/assets/21d23d5b-007c-4c7a-bde0-2bb3a9e4e100" />
 
+**Conclusion**: 22cm net height is sufficient if aperture is widened. 
 
  [View full analysis in Python notebook](netheight_analysis.ipynb)
