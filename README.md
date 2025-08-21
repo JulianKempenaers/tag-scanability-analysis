@@ -1,4 +1,4 @@
-# Tag Detection Analysis: Optimising Visibility Tag visibility through Obstructions
+# Tag Detection Analysis: Optimising Tag visibility through Obstructions
 
 ## Goal
 To determine the optimal net height and camera aperture settings that maximize the frequency of successful tag detections in the presence of a physical barrier (a net). 
